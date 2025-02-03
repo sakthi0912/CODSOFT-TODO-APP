@@ -1,0 +1,17 @@
+.circle{
+    height: 45px;
+    width:45px;
+    border-radius: 50%;
+    margin: 5px;
+    display: inline-block;
+}
+ ion-icon{
+    font-size :24px;
+ }
+.center-list{
+    display: flex;
+    text-align: center;
+}
+.selected{
+    border: 2px solid black;
+}
